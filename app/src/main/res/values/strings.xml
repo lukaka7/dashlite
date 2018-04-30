@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DashLite</string>
+    <string name="default_name">DoorDash</string>
+    <string name="default_description">Asian Fusion</string>
+    <string name="default_status">30 mins</string>
+    <string name="metadata_rating">%1$s/5 · %2$d ratings</string>
+</resources>
