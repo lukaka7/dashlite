@@ -18,4 +18,6 @@ public class Restaurant implements Serializable {
     @SerializedName("menus") public List<Menu> menus;
     @SerializedName("average_rating") public String average_rating;
     @SerializedName("number_of_ratings") public int number_of_ratings;
+
+    public boolean isFavorited;
 }
